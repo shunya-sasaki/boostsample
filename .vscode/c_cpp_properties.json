@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/include",
+                "/opt/homebrew/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/include/python3.9"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
